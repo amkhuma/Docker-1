@@ -1,2 +1,5 @@
-docker pul python:2-slim
+docker pull python:2-slim
 docker run -it --rm --name Abathur -v $HOME:/root -p 3000:3000 python:2-slim
+
+
+man i dont get wtf is going on here or what they want
