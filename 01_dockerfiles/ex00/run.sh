@@ -1,1 +1,0 @@
-docker run -it --rm 01_dockerfiles-ex00
